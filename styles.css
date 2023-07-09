@@ -1,0 +1,66 @@
+/* This is header section */
+
+/* .header-container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+} */
+header{
+    background-image: url("./images/banner/banner1.png");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1900px;
+height: 900px;
+    
+}
+    
+    
+/* .banner{
+    width: 1600px;
+height: 808px;
+width: 100%;
+} */
+.header-text{
+    
+    text-align: right;
+    /* margin-top: 100px; */
+    padding:200px 100px 800px 300px ;
+
+
+}
+.heading{
+    color:  #151414;
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.paragraph{
+    color:  #444343;
+
+font-family: Work Sans;
+font-size: 25px;
+margin-top: 24px;
+font-weight: 400;
+line-height: 26px;
+}
+.btn{
+    border-radius: 5px;
+background: #F15B22;
+width: 160px;
+height: 64px;
+color: #FFF;
+
+/* font-family: Work Sans; */
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding: 20px;
+border: 0;
+
+}
