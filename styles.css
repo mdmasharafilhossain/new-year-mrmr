@@ -6,7 +6,7 @@
     width: 100%;
 } */
 header{
-    background-image: url("./images/banner/banner1.png");
+    background-image: url("./imagesss/banner/banner1.png");
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,11 +17,7 @@ height: 900px;
 }
     
     
-/* .banner{
-    width: 1600px;
-height: 808px;
-width: 100%;
-} */
+
 .header-text{
     
     text-align: right;
@@ -62,5 +58,86 @@ font-weight: 600;
 line-height: normal;
 padding: 20px;
 border: 0;
+}
 
+/* This is main section */
+
+
+.second-section-container{
+   
+    max-width: 1500px;
+    background: #FFF;
+    margin: 0 auto;
+    
+   
+}
+.first-section{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+
+}
+.image-second-section img {
+
+    
+    width: 451px;
+height: 898px;
+
+
+}
+.red{
+    width: 527.929px;
+height: 527.929px;
+    
+    
+    border-radius: 527.929px;
+background: rgba(241, 91, 34, 0.20);
+margin-top: -550px;
+margin-left: -50px;
+
+}
+
+.second-heading{
+    color:  #151414;
+    font-family: Work Sans;
+font-size: 50px;
+}
+.second-para{
+    color:  #444343;
+font-family: Work Sans;
+font-size: 20px;
+margin-top: 01px;
+
+
+}
+.second-text-section{
+   
+    
+
+}
+.third-heading{
+    color:  #151414;
+     text-align: center; 
+    font-family: Work Sans;
+    font-size: 65px;
+    padding: 50px;
+}
+.icon-container{
+    display: flex;
+    padding-left: 500px;
+    gap:200px;
+}
+.fourth-image{
+    /* width: 1140px;
+height: 300px;
+padding-left: 400px;
+padding-top: 100px;
+border-radius: 8px; */
+background-image: url("./imagesss/watch.png");
+height: 300px;
+width: 800px;
+/* background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%); */
+
+/* background-image: url("./imagesss/watch.png"); */ 
 }
